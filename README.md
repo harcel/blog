@@ -3,5 +3,5 @@ Notebooks with code and examples corresponding to blog posts at http://www.marce
 
 ***
 
-- digits: handwritten (MNIST) digits and recognition, including denoising and a severe dimension reduction.
+- digits: handwritten (MNIST) digits and recognition, including de-noising and a severe dimension reduction.
 
